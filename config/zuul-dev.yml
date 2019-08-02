@@ -40,8 +40,3 @@ management:
       exposure:
         include: hystrix.stream
         
-  rabbitmq:
-    host: 192.168.52.132
-    port: 5672
-    username: admin
-    password: admin
